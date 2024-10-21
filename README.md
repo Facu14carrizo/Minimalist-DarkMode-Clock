@@ -1,5 +1,5 @@
 # Minimalist Clock
- 
+  
 ![Minimalist Clock Demo](Assets/Minimalistclock-Demo.gif)
 
 ## Live Demo [here](https://minimalist14clock.netlify.app).
